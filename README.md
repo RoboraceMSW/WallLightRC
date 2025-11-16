@@ -1,7 +1,7 @@
-## DecodeHX1838
-Decodes IR Remote Control HX1838 codes for each button:
+## DecodeWallLightRC
+Decodes Rechargeable Wall Light IR Remote  codes for each button:
 
-<img src="./HX1838_nbg.png"  width="20%" height="20%" align="left" alt="HX1838 IR remote control"/>
+<img src="./wall_light_rc.png"  width="20%" height="20%" align="left" alt="HX1838 IR remote control"/>
 
 
 |   |   |   |
