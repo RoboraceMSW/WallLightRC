@@ -43,7 +43,7 @@ Om deze repository te bewerken in MakeCode.
 
 
 
-> Open deze pagina op [https://roboracemsw.github.io/walllightrc/](https://roboracemsw.github.io/walllightrc/)
+> Open deze pagina op [https://roboracemsw.github.io/decodewalllightrc/](https://roboracemsw.github.io/decodewalllightrc/)
 
 ## Gebruiken als extensie
 
@@ -52,7 +52,7 @@ Deze repository kan worden toegevoegd als **extensie** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klik op **Nieuw project**
 * klik op **Extensies** onder het tandwielmenu
-* zoeken naar **https://github.com/roboracemsw/walllightrc** en importeren
+* zoeken naar **https://github.com/roboracemsw/decodewalllightrc** en importeren
 
 ## Dit project bewerken
 
@@ -60,7 +60,7 @@ Om deze repository te bewerken in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klik op **Importeren** en klik vervolgens op **Importeer URL**
-* plak **https://github.com/roboracemsw/walllightrc** en klik op importeren
+* plak **https://github.com/roboracemsw/decodewalllightrc** en klik op importeren
 
 #### Metadata (gebruikt voor zoeken, rendering)
 
