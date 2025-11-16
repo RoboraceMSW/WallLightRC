@@ -17,8 +17,15 @@ Decodes Rechargeable Wall Light IR Remote  codes for each button:
 <br/>
 
 Sourced from [Action](https://www.action.com/nl-nl/p/3216834/oplaadbare-wandlamp/) 
-<br/>
+
 IR button codes decoded with [ShowRawIRCode](../ShowRawIRCode)
+<br/>
+<br clear="left"/>
+<br/>
+<img src="./wall_light_3216834.jpg"  width="20%" height="20%" align="left" alt="Wall Light IR remote control"/>
+<br clear="left"/>
+<br/>
+<br/>
 ## Gebruiken als extensie
 
 Deze repository kan worden toegevoegd als **extensie** in MakeCode.
