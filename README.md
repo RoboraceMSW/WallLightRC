@@ -6,17 +6,17 @@ Decodes Rechargeable Wall Light IR Remote  codes for each button:
 
 |   |   |   |
 |---|---|---|
-| **1**  [&nbsp;&nbsp;93]| **2**  [157]| **3**  [&nbsp;&nbsp;29]|
-| **4**  [221]| **5**  [253]| **6**  [&nbsp;&nbsp;61]|
-| **7**  [&nbsp;&nbsp;31]| **8** [&nbsp;&nbsp;21]| **9**  [&nbsp;&nbsp;9]|
-| **\*** [&nbsp;&nbsp;22]|  **0**  [25]| **#**  [13]|
-|      | **^** [&nbsp;&nbsp;24]|       |
-| **<** [&nbsp;&nbsp;8]|  **OK**  [199]| **>**  [165]|
-|      | **V** [181]|       | 
+| n/a| **ON**  [157]| n/a|
+| n/a|n/a|n/a|
+| n/a| **OFF** [&nbsp;&nbsp;21]| n/a|
+| n/a| n/a| n/a|
+|    **10%** [&nbsp;&nbsp;12] | **50%** [&nbsp;&nbsp;24]| **100%** [&nbsp;&nbsp;133] |
+| **30min** [&nbsp;&nbsp;8]|  **1h**  [199]| **2h**  [165]|
+|   n/a   | n/a|   n/a    | 
 <br clear="left"/>
 <br/>
 
-Sourced from <a href="https://nl.aliexpress.com/item/1005006463650651.html">Aliexpress</a> 
+Sourced from [https://nl.aliexpress.com/item/1005006463650651.html](https://www.action.com/nl-nl/p/3216834/oplaadbare-wandlamp/) 
 <br/>
 IR button codes decoded with [ShowRawIRCode](../ShowRawIRCode)
 ## Gebruiken als extensie
